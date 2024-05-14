@@ -1,6 +1,21 @@
 .App {
   text-align: center;
 }
+.todoList{
+  display: flex;
+  justify-content: center;
+}
+button{
+  width: fit-content;
+  height: 20px;
+  margin: 8px;
+}
+.editInput{
+  display: flex ;
+  height: fit-content;
+  margin: 8px;
+}
+
 
 .App-logo {
   height: 40vmin;
